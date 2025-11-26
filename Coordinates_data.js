@@ -1,5 +1,7 @@
-var points = [
-    [13.310674, 123.749512, "Point 1"],
+//An extract of address points from the LINZ bulk extract: http://www.linz.govt.nz/survey-titles/landonline-data/landonline-bde
+//Should be this data set: http://data.linz.govt.nz/#/layer/779-nz-street-address-electoral/
+var addressPoints = [
+[13.310674, 123.749512, "Point 1"],
 [13.294992, 123.757362, "Point 2"],
 [13.323728, 123.738541, "Point 3"],
 [13.310048, 123.749893, "Point 4"],
@@ -105,4 +107,5 @@ var points = [
 [13.280171, 123.758408, "Point 104"],
 [13.282009, 123.758324, "Point 105"]
 ];
+
 
